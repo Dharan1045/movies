@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/qpxpGmC/image.jpg" alt="Jisshu-Auto-filter">
+  <img src="https://i.ibb.co/hR8tDbqD/file-LC6xx7-Cv1s3-Rjt-C2fewz-AU.webp" alt="file-LC6xx7-Cv1s3-Rjt-C2fewz-AU" border="0">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
+  <a href="https://telegram.me/Worldmoviesfast_bot">Movie/Auto Filter Bot</a>
 </h1>
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
@@ -135,14 +135,3 @@ python3 bot.py
 </details>
 
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
-
-
-## **Thanks to** 
- - <b>Thanks To [Zishan Khan](https://t.me/JISSHU_BOTS) To Modify And Add Amazing Feature In The Repo
- - Thanks To [biisal](https://github.com/biisal/biisal-filter-bot) For Base Repo
- - Thanks To [Ꭺɴᴏɴʏᴍᴏᴜꜱ](https://t.me/TG_Anonymous_Official) To refresh Future Code and Update premium future</b>
- - Thanks To [Zoro](https://t.me/JOYBOY_ZORO) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
- - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/CoderluffyTG) For fixing key errors and making the bot better. Your help has been truly appreciated!
- - Thanks To All Everyone In This Journey
- <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
-
